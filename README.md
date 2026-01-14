@@ -13,10 +13,10 @@ You can try the live application here: [magnus-carlsen-predictor.streamlit.app](
 ## 🖼️ Screenshots
 Here is a look at the application interface:
 
-### 1. Model Training & Analysis
+### 1. Model Training & Analysis (Loss)
 <img src="screenshots/training_analysis.png" width="800">
 
-### 2. Predictor Web Interface
+### 2. Model Training & Analysis (Win)
 <img src="screenshots/training_analysis2.png" width="800">
 
 ## 🛠️ Tech Stack
